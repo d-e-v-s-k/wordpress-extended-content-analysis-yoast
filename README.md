@@ -1,6 +1,6 @@
 # Extended Content Analysis for YOAST SEO
 
-Plugin extends the "Content Analysis" Features of YOAST SEO while it fetches the complete Post or Page content manually and even gets the data out of layout building tools like Enfolds "Avia Layout Builder".
+Wordpress Plugin extends the "Content Analysis" Features of YOAST SEO while it fetches the complete Post or Page content manually and even gets the data out of layout building tools like Enfolds "Avia Layout Builder".
 
 
 ## Requirements
@@ -17,9 +17,9 @@ This Plugin requires at least **Version 3.0 of YOAST SEO Plugin**
 
 ### Changelog
 
-**1.0.0**
+**v1.0.0**
 * structure plugin
 * do security measures
 
-**0.5**
+**v0.5**
 * initial Plugin setup
