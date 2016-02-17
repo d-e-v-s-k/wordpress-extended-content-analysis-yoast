@@ -10,15 +10,16 @@ This Plugin requires at least **Version 3.0 of YOAST SEO Plugin**
 
 ## Installation
 
-1. Upload `extended-content-analysis-yoastseo` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Download ZIP File and extract
+2. Upload `extended-content-analysis-yoastseo` folder to the `/wp-content/plugins/` directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
 
 
 ### Changelog
 
-** 1.0.0 **
+**1.0.0**
 * structure plugin
 * do security measures
 
-** 0.5 **
+**0.5**
 * initial Plugin setup
